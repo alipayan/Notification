@@ -35,10 +35,10 @@ This project is a minimal web API for a notification system, designed using the 
 3. **Ready to GO!**
 
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
