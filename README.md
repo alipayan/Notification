@@ -31,7 +31,7 @@ This project is a minimal web API for a notification system, designed using the 
 
 1. **Clone the repository**
 2. **Set the database connection configs**
-3. **Set the api-key for using the sms provider and set the configuration for mail server **
+3. **Set the api-key for using the sms provider and set the configuration for mail server**
 3. **Ready to GO!**
 
 
